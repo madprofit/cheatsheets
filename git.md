@@ -11,3 +11,5 @@ push - push changes to master
 diff - list differnces in files
 pull - recieve file from repo
 branch - version of change
+
+new changes go here
